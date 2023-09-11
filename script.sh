@@ -34,8 +34,8 @@ echo "
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+useradd "winkokooo" --shell=/bin/false -M
+echo "winkokooo:winkokooo" | chpasswd
 
 echo ""
 
