@@ -22,13 +22,14 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY W-K2Ö4 ۩ ---
 </font></h3>
-
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
+<h3><font color='red'>အာလုံးပဲအဆင်ပြေကြပါစေနော်။
+</font></h3>
+<h4><font color='cyan'>Telegram Channel >> https://t.me/gcpkeyfree1
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>Telegram Channel >> https://t.me/gcpkeyfree1
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
