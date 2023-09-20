@@ -22,32 +22,25 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY W-K2Ö4 ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY FREE KEYS COLLECTIONS  ۩ ---
 </font></h3>
 <h3><font color='red'>အာလုံးပဲအဆင်ပြေကြပါစေနော်။
 </font></h3>
-<h4><font color='cyan'>Telegram Channel >> https://t.me/gcpkeyfree1
-</font></h4>
+<h4><font color='cyan'>FREE KEYS COLLECTIONS 
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/gcpkeyfree1
+<h4><font color='blue'>Telegram Channel >> https://t.me/freekeyscollections
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
-</font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
+</font></h3>" | tee /etc/ssh/gcp_winko >/dev/null
 useradd "winkokooo" --shell=/bin/false -M
 echo "winkokooo:winkokooo" | chpasswd
 
 echo ""
 
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
-echo -e "${cyan} ___   ___          ________          ___   ___                               ${plain}"
-echo -e "${cyan}|\  \ |\  \        |\   __  \        |\  \ |\  \                              ${plain}"
-echo -e "${cyan}\ \  \|_\  \       \ \  \|\  \       \ \  \|_\  \                             ${plain}"
-echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \                            ${plain}"
-echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
-echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
-echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${cyan} FREE KEYS CLLECTIONS ${plain}"
+echo -e "${green}Contact the developer WinKoKoOo for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am WinKoKoOo 😎 ${plain}"
